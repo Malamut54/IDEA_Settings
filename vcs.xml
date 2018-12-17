@@ -34,8 +34,12 @@
           <option name="url" value="git@github.com:petrelevich/Spring-boot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Malamut54/springotus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/otus/dv" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
 </application>

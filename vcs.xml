@@ -46,8 +46,12 @@
           <option name="url" value="http://gitlab.corp.taskdata.ru" />
           <option name="userName" value="dmitriy.bobrov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.corp.taskdata.ru/vladimir.krasnianski/importXml.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\dmitriy.bobrov\IdeaProjects" />
   </component>
 </application>
